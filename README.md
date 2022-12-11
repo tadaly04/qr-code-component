@@ -13,8 +13,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -23,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [View it here.](https://tadaly04.github.io/qr-code-component/)
 
 ## My process
 
@@ -42,4 +40,4 @@ I could not figure out how to get the box-shadow to match up with the design, so
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/tadaly04)
+- Frontend Mentor - [@tadaly](https://www.frontendmentor.io/profile/tadaly04)
